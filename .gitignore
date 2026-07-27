@@ -18,3 +18,4 @@
 *.tmp
 # Ambiente de desenvolvimento
 *.vscode
+.vscode/tasks.json
