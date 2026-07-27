@@ -15,7 +15,7 @@ int sum  = number1 + number2;
 int  sub = number1 - number2;
 int mul = number1 * number2;
 int div = number1 / number2;
-float fdiv = (float)number1 / number2;
+float fdiv = (float)number1 / (float)number2;
 int res = number1 % number2;
 cout << "O resultado da operação de soma é: " << sum << endl;
 cout << "O resultado da operação de subtração é: " << sub << endl;
