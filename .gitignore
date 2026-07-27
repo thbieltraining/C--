@@ -1,0 +1,18 @@
+# Arquivos compilados
+*.exe
+*.obj
+*.o
+*.out
+
+# Arquivos de depuração
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
