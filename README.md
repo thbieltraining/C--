@@ -67,22 +67,7 @@ Este projeto documenta minha evolução no estudo de estruturas de dados fundame
 
 ---
 
-# 📂 Organização
 
-```text
-📦 Estruturas-De-Dados
-│
-├── 01_Introducao_CPP
-├── 02_Vetores
-├── 03_Matrizes
-├── 04_Listas_Encadeadas
-├── 05_Pilhas
-├── 06_Filas
-├── 07_Tabela_Hash
-├── 08_Arvores_Binarias
-├── 09_Arvores_AVL
-├── 10_Grafos
-└── 11_PageRank
 ```
 
 ---
