@@ -88,12 +88,12 @@ Este projeto documenta minha evolução no estudo de estruturas de dados fundame
 
 | Módulo | Status |
 |---------|--------|
-| Introdução ao C++ | 🟢 Em andamento |
+| Introdução ao C++ | 🟢 OK |
 | Vetores | ⚪ Não iniciado |
 | Matrizes | ⚪ Não iniciado |
 | Listas Encadeadas | ⚪ Não iniciado |
-| Pilhas | ⚪ Não iniciado |
-| Filas | ⚪ Não iniciado |
+| Pilhas | 🟢 Em andamento |
+| Filas | 🟢 Em andamento |
 | Tabela Hash | ⚪ Não iniciado |
 | Árvores Binárias | ⚪ Não iniciado |
 | Árvores AVL | ⚪ Não iniciado |
