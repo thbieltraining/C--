@@ -40,10 +40,10 @@ Este projeto documenta minha evolução no estudo de estruturas de dados fundame
 
 ## ✔️ Estruturas Lineares
 
-- [✔️] Vetores
+- [ ] Vetores
 - [ ] Matrizes
 - [ ] Listas Encadeadas
-- [✔️] Pilhas (Stacks)
+- [ ] Pilhas (Stacks)
 - [ ] Filas (Queues)
 
 ---
