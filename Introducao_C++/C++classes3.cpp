@@ -7,6 +7,13 @@
 #include "C++classes.h"
 
 using namespace std;
+
+Time::Time(int h, int m, int s) {
+    hour = h;
+    minute = m;
+    second = s;
+}
+
 int Time::getHour() const {
     return hour;
 }
@@ -17,6 +24,7 @@ int Time::getSecond() const {
     return second;
 }
 
+// ... (resto do arquivo continua igual, com os setters, print, nextSecond)
 // o que é o :: ?
 // É o operador de resolução de escopo (::) é usado para acessar membros (como funções ou variáveis) de uma classe, namespace ou enumeração.
 
