@@ -89,16 +89,16 @@ Este projeto documenta minha evolução no estudo de estruturas de dados fundame
 | Módulo | Status |
 |---------|--------|
 | Introdução ao C++ | 🟢 OK |
-| Vetores | ⚪ Não iniciado |
-| Matrizes | ⚪ Não iniciado |
-| Listas Encadeadas | ⚪ Não iniciado |
-| Pilhas | 🟢 Em andamento |
-| Filas | 🟢 Em andamento |
-| Tabela Hash | ⚪ Não iniciado |
-| Árvores Binárias | ⚪ Não iniciado |
-| Árvores AVL | ⚪ Não iniciado |
-| Grafos | ⚪ Não iniciado |
-| PageRank | ⚪ Não iniciado |
+| Vetores | 🟢 OK|
+| Matrizes | 🟢 OK |
+| Listas Encadeadas | 🟢 OK |
+| Pilhas | 🟢 OK |
+| Filas | 🟢 OK |
+| Tabela Hash | 🟢 OK |
+| Árvores Binárias | 🟢 OK|
+| Árvores AVL | 🟢 OK |
+| Grafos | 🟢 OK |
+| PageRank | 🟢 OK |
 
 ---
 
